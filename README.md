@@ -21,3 +21,17 @@ Be a better programmer on differents topics of interest, like artificial intelli
 
 #### Solution [Python solution](2025/Artificial_Intelligence/PolynomialRegressionOfficePrices.py)
 * Using Polynomial transform of 3 grade on a regression model
+
+### Laptop Battery Life
+* Fun problem, you need to see the relationship between the variables and next create a model for a specific break point. May be create a model is overcomplex the problem.
+#### Problem
+<img src="./2025/Artificial_Intelligence/images/LaptopBatteryProblem.PNG" width="600">
+
+#### Solution [Python Solution](2025/Artificial_Intelligence/LaptopBatteryLife/model.py)
+* The problems give us data, so:
+    * Study the data
+    
+    <img src="./2025/Artificial_Intelligence/LaptopBatteryLife/scatter.png" width="400">
+
+    * train a model
+    * And finally obtain the `reg.intercept_` and `reg.coef_` for build the equation: $Y = \alpha + \beta \cdot X$ and get the answer.
