@@ -35,3 +35,6 @@ Be a better programmer on differents topics of interest, like artificial intelli
 
     * train a model
     * And finally obtain the `reg.intercept_` and `reg.coef_` for build the equation: $Y = \alpha + \beta \cdot X$ and get the answer.
+
+### Stock Predictions
+* Problem: https://www.hackerrank.com/challenges/stockprediction?isFullScreen=true&hr_b=1
